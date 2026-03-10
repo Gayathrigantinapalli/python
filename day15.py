@@ -252,9 +252,9 @@
 
 
 
-import random as gayee
-a=gayee.randint(2*9)
-print(a)
+# import random as gayee
+# a=gayee.randint(2,9)
+# print(a)
 
 
 

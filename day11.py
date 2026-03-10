@@ -96,27 +96,27 @@
 
 
 
-class america:
-    def __init__(self,dosa,biriyani):
-        self.dosa=dosa
-        self.biriyani=biriyani
-    def tiffin(self):
-        print("i eat dosa in morning")
-    def lunch(self):
-        print("i like biriyani")
-class chirrikurapadu(america):
-    def __init__(self,dosa,biriyani,chapathi):
-        super().__init__(dosa,biriyani)
-        self.chapathi=chapathi
-    def dinner(self):
-        print("i am making a chapathi") 
-class tangutur(america):
-    def __init__(self,dosa,biriyani,chapathi,pulav):
-        super().__init__(dosa,biriyani)
-        self.pulav=pulav
-    def snacks(self):
-        print("that is a vegpulav")
-a=tangutur("oniondosa"," chickenbiriyani","eggchapathi","vegpulav")
-a.tiffin()
-a.lunch()
-a.snacks()
+# class america:
+#     def __init__(self,dosa,biriyani):
+#         self.dosa=dosa
+#         self.biriyani=biriyani
+#     def tiffin(self):
+#         print("i eat dosa in morning")
+#     def lunch(self):
+#         print("i like biriyani")
+# class chirrikurapadu(america):
+#     def __init__(self,dosa,biriyani,chapathi):
+#         super().__init__(dosa,biriyani)
+#         self.chapathi=chapathi
+#     def dinner(self):
+#         print("i am making a chapathi") 
+# class tangutur(america):
+#     def __init__(self,dosa,biriyani,chapathi,pulav):
+#         super().__init__(dosa,biriyani)
+#         self.pulav=pulav
+#     def snacks(self):
+#         print("that is a vegpulav")
+# a=tangutur("dosa"," biriyani","chapathi","pulav")
+# a.tiffin()
+# a.lunch()
+# a.snacks()

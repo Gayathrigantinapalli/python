@@ -66,11 +66,6 @@
 
 
 
-a='laddu'
-b=10000
-c="hii{},you have to pay {}".format(b,a)
-print (a)
-
 
 
 

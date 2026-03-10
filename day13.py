@@ -71,24 +71,24 @@
 
 
 
-def is_armstrong(num):
-    power = len(str(num))
-    total = 0
-    n = num
+# def is_armstrong(num):
+#     power = len(str(num))
+#     total = 0
+#     n = num
 
-    while n > 0:
-        digit = n % 10
-        total += digit ** power
-        n //= 10
+#     while n > 0:
+#         digit = n % 10
+#         total += digit ** power
+#         n //= 10
 
-    return total == num
+#     return total == num
 
-num = int(input("Enter a number: "))
+# num = int(input("Enter a number: "))
 
-if is_armstrong(num):
-    print("Armstrong Number")
-else:
-    print("Not an Armstrong Number")
+# if is_armstrong(num):
+#     print("Armstrong Number")
+# else:
+#     print("Not an Armstrong Number")
 
 
 

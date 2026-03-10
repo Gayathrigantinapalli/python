@@ -105,29 +105,29 @@
 
 
 
-class arithmetic:
-    def __init__(self,a,b):
-        self.a=a
-        self.b=b
-    def my_add(self):
-        print(self.a+self.b)
-    def my_sub(self):
-        print(self.a-self.b)
-    def my_mul(self):
-        print(self.a*self.b)
-    def my_div(self):
-        print(self.a/self.b)
-    def my_remainder(self,c):
-        print((self.a % self.b)/300)
-    def my_power(self):
-        print((self.a+self.b)**2)
-data=arithmetic(20,30)
-data.my_remainder(5)
-data.my_power()
-data.my_div()
-data.my_mul()
-data.my_sub()
-data.my_add()
+# class arithmetic:
+#     def __init__(self,a,b):
+#         self.a=a
+#         self.b=b
+#     def my_add(self):
+#         print(self.a+self.b)
+#     def my_sub(self):
+#         print(self.a-self.b)
+#     def my_mul(self):
+#         print(self.a*self.b)
+#     def my_div(self):
+#         print(self.a/self.b)
+#     def my_remainder(self,c):
+#         print((self.a % self.b)/300)
+#     def my_power(self):
+#         print((self.a+self.b)**2)
+# data=arithmetic(20,30)
+# data.my_remainder(5)
+# data.my_power()
+# data.my_div()
+# data.my_mul()
+# data.my_sub()
+# data.my_add()
         
 
 

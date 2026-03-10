@@ -13,17 +13,18 @@
 
 
 
-class object:
-     def __init__(self,a,b):
-         self.a=a
-         self.b=b
-     def my_add(self,c):
-         print((self.a+self.b+c)/500)
-     def my_sub(self):
-         print((self.a+self.b)**1)
-data = object(40,30)
-data.my_add(20)
-data.my_sub()
+
+# class person:
+#         def __init__(self,name,age):
+#          self.name=name
+#          self.age=age
+#         def my_name(self):
+#          print(self.name)
+#         def my_age(self):
+#          print(self.age)
+# data = person("gayee",22)
+# data.my_name()
+# data.my_age()
 
 
 

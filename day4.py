@@ -31,11 +31,11 @@
 
 
 
-a=  {'name':'lakshmi',
-      'class':9,
-      'section':'a',
-      'village':'america'
-    }
+# a=  {'name':'lakshmi',
+#       'class':9,
+#       'section':'a',
+#       'village':'america'
+#     }
   
-print(a['village'])
+# print(a['village'])
 

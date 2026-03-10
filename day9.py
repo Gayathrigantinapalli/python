@@ -180,24 +180,24 @@
 
 
 
-class resturant:
-    def __init__(self,fruits,tiffin,meals,biriyani):
-        self.fruits=fruits
-        self.tiffin=tiffin
-        self.meals=meals
-        self.biriyani=biriyani
-    def veg(self):
-        print("SHE EAT THE AP MEALS")
-    def nonveg(self):
-        print("SHE EAT THE HYDERABAD BIRIYANI")
-    def patient(seLf):
-        print("SHE CAN NOT THE  BANANA ")
-    def tiffin(self):
-        print("I EAT THE DOSA")
-x=resturant('tiffin','meals','fruits','biriyani') 
-x.patient()
-x.nonveg()
-x.veg()  
+# class resturant:
+#     def __init__(self,fruits,tiffin,meals,biriyani):
+#         self.fruits=fruits
+#         self.tiffin=tiffin
+#         self.meals=meals
+#         self.biriyani=biriyani
+#     def veg(self):
+#         print("SHE EAT THE AP MEALS")
+#     def nonveg(self):
+#         print("SHE EAT THE HYDERABAD BIRIYANI")
+#     def patient(seLf):
+#         print("SHE CAN NOT THE  BANANA ")
+#     def tiffin(self):
+#         print("I EAT THE DOSA")
+# x=resturant('tiffin','meals','fruits','biriyani') 
+# x.patient()
+# x.nonveg()
+# x.veg()  
 
         
         

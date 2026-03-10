@@ -84,6 +84,6 @@
 # del a[-2]
 # print(a)
 
-a= ['mango','banana','orange','banana','cherry','papaya']
-del a[-2:-4]
-print(a)
+# a= ['mango','banana','orange','banana','cherry','papaya']
+# del a[-2:-4]
+# print(a)

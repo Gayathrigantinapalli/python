@@ -38,25 +38,25 @@
         
         
 
-class chef():
-    def __init__(self,apple,biriyani,vegetable,dryfruits,meals):
-        self.apple=apple
-        self.biriyani=biriyani
-        self.vegetable=vegetable
-        self.dryfruits=dryfruits
-    def patient(self):
-        print("I EAT APPLE ")
-    def nonveg(self):
-        print("SHE CAN NOT EAT THE BIRIYANI")
-    def veg(self):
-        print("I AM EAT DRYFRUITS") 
-    def guest(self):
-        print("GUEST ARE ESTING VEGETABLE")
-data=chef("apple","biriyani","vegetable","dryfruits","meals")
-data.patient() 
-data.nonveg() 
-data.veg()
-data.guest()       
+# class chef():
+#     def __init__(self,apple,biriyani,vegetable,dryfruits,meals):
+#         self.apple=apple
+#         self.biriyani=biriyani
+#         self.vegetable=vegetable
+#         self.dryfruits=dryfruits
+#     def patient(self):
+#         print("I EAT APPLE ")
+#     def nonveg(self):
+#         print("SHE CAN NOT EAT THE BIRIYANI")
+#     def veg(self):
+#         print("I AM EAT DRYFRUITS") 
+#     def guest(self):
+#         print("GUEST ARE ESTING VEGETABLE")
+# data=chef("apple","biriyani","vegetable","dryfruits","meals")
+# data.patient() 
+# data.nonveg() 
+# data.veg()
+# data.guest()       
 
 
 
